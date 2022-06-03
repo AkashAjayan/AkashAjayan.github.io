@@ -1,10 +1,7 @@
 # AkashAjayan.github.io
 # h1 my github
-<!DOCTYPE html>
-<html>
-<head>
-<title>IF STATEMENT
-</title>
+
+## IF STATEMENT
 <body>
 <script>
 var a=12;
